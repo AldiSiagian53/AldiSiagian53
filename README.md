@@ -12,6 +12,18 @@ Bachelor’s degree graduate in Informatics from Politeknik Negeri Batam with ha
 ![](https://nirzak-streak-stats.vercel.app/?user=AldiSiagian53&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AldiSiagian53&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🎧 Spotify Recently Played
+
+<div align="center">
+  <a href="https://open.spotify.com/user/316wifgfeedku24coz2k63pq2znm">
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=316wifgfeedku24coz2k63pq2znm&count=5&unique=true&width=600" 
+      alt="Spotify Recently Played" 
+    />
+  </a>
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
