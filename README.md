@@ -19,12 +19,13 @@ Bachelor’s degree graduate in Informatics from Politeknik Negeri Batam with ha
 <div align="left">
   <a href="https://open.spotify.com/user/316wifgfeedku24coz2k63pq2znm">
     <img 
-      src="https://spotify-recently-played-readme.vercel.app/api?user=316wifgfeedku24coz2k63pq2znm&count=5&unique=true&width=600" 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=316wifgfeedku24coz2k63pq2znm&count=5&unique=true&width=1000" 
       alt="Spotify Recently Played" 
     />
   </a>
 </div>
 
+<h2 .align="left">Play Games With Me</h2>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AldiSiagian53/AldiSiagian53/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AldiSiagian53/AldiSiagian53/output/pacman-contribution-graph.svg">
